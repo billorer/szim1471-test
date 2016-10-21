@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Ez a b.txt, es modositottam ezt is.
 Meg egyszer modositom, cuz why not.
+=======
+asdfadsadgdfg a grg erg
+>>>>>>> 9337c07abca243447aa2093e47aa9d3c941e6779
+asdfadsfsadfsdfadsf
